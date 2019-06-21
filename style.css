@@ -1,0 +1,27 @@
+.container {
+    background-color: wheat;
+    border: solid 10px;
+    width: 100%;
+    text-align: center;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+}
+
+.footer {
+    background-color: wheat;
+    border: solid 10px;
+    width: 100%;
+    text-align: center;
+    fl
+}
+
+.body {
+    background-color: wheat;
+    border: solid 10px;
+    width: 100%;
+    text-align: center;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 100px;
+}
